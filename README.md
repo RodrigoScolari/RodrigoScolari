@@ -40,10 +40,8 @@
  
  <div>
    <h2>💬 Vamos Conversar </h2>
-   
+ 
    Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
-   
-   <br>
    
   <a href="https://www.instagram.com/rodrigoascolari/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/rodrigo-ant%C3%B4nio-scolari-1577a118a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
