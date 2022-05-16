@@ -3,7 +3,7 @@
 <h2>😁 Sobre mim:</h2>
  <li>Me chamo Rodrigo Antônio Scolari e sou do Rio Grande do Sul</li><br>
 
-<li>Curso Análise e Desenvolvimento de Sistemas na Unopar</li><br>
+<li>Estou cursando Análise e Desenvolvimento de Sistemas na Unopar</li><br>
 
 <li>Apaixonado por Desenvolvimento Web, em especial por Front End 💙</li><br>
 
