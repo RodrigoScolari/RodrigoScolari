@@ -2,11 +2,9 @@
 
 <h2>😁 About me:</h2>
 
-<li>My name is Rodrigo Antônio Scolari</li><br>
+<li>🙃 My name is Rodrigo Antônio Scolari</li><br>
 
 <li>🎓 I’m currently studying System Analisys and Development at Unopar</li><br>
-
-<li>:brazil: Brazilian</li><br>
 
 <li>💙 Focused on specializing as a Front-End Developer.</li><br>
 
