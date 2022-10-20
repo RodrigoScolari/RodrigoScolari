@@ -8,7 +8,7 @@
 
 <li>💙 Focused on specializing as a Front-End Developer.</li><br>
 
-<li>🎮 In my free time I enjoy playing videogames and having some beer (cheers🍻).</li><br>
+<li>🎮 In my free time, I enjoy playing video games and having some outdoor activity.</li><br>
 
 
 <div style="display: inline_block"><br>
